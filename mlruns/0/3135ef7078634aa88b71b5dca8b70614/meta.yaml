@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/PROJECT/PRIVATE/ds-test/delos-aqua-test/mlruns/0/3135ef7078634aa88b71b5dca8b70614/artifacts
+end_time: 1661003648894
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 3135ef7078634aa88b71b5dca8b70614
+run_uuid: 3135ef7078634aa88b71b5dca8b70614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1661003648878
+status: 4
+tags: []
+user_id: amita
