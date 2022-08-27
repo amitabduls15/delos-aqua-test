@@ -1,6 +1,6 @@
+pycaret
 pandas
-numpy
-sklearn
-seaborn
 openpyxl
+plotly_express
+jupyter
 mlflow
